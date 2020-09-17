@@ -2,7 +2,7 @@
 This is a SQL-based portfolio to showcase skill in SQL and data anlysis.
 
 ## Data Source: Ford Foundation 
-The portfolio analysizes the dataset publicly provided by the Ford Foundation, one of America's largest private foundations *with the mission of advancing human welfare*.  Analysis was performed to reveal historical trends of the foundation's grantmaking from 2013 to 2020 at a high level persective, and a deeper look into what the foundation has done so far in 2020.
+The portfolio analysizes the dataset publicly provided by the Ford Foundation, one of America's largest private foundations *with the mission of advancing human welfare*. The dataset provides information from 2006 to 2020, but due to leadership change in 2013, the analysis was performed to reveal historical trends of the foundation's grantmaking from 2013 to 2020 at a high level persective, and a deeper look into what the foundation has done so far in 2020.
 
 Most of the database schema tables derive from the Ford Foundation dataset. However, the code for the dim_date table is taken from [this Medium article](https://medium.com/@duffn/creating-a-date-dimension-table-in-postgresql-af3f8e2941ac).
 
