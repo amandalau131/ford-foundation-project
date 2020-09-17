@@ -7,7 +7,7 @@ The portfolio analysizes the dataset publicly provided by the Ford Foundation, o
 Most of the database schema tables derive from the Ford Foundation dataset. However, the code for the dim_date table is taken from [this Medium article](https://medium.com/@duffn/creating-a-date-dimension-table-in-postgresql-af3f8e2941ac).
 
 ## SQL: PostgreSQL
-PostgreSQL was utilized and the queries were directly ran in PgAdmin 4, the management tool for PostgreSQL.
+PostgreSQL was utilized and the queries were directly ran in PgAdmin 4, the management tool for PostgreSQL. The queries aim to bring insight on how well the foundation's committments align with its mission of funding *individuals, institutions, and innovative ideas [world wide] that are at the front lines of social change around the world in areas of civil rights, education, arts and culture, human rights, poverty reduction and urban development*. 
 
 ## Data Visualization: Power BI
-Power BI was used to connect to the PostgreSQL database and utilized to create visual analysis on the queries. Final presentation are dashboards showing the grants made by the Ford Foundation from a historical perspective and from a current outlook. The visualizations aim to bring insight on how well the foundation's committments align with its mission of funding *individuals, institutions, and innovative ideas [world wide] that are at the front lines of social change around the world in areas of civil rights, education, arts and culture, human rights, poverty reduction and urban development*. 
+Power BI was used to connect to the PostgreSQL database and utilized to create visual analysis on the queries. Final presentation are dashboards showing the grants made by the Ford Foundation from a historical perspective and from a current outlook with drill-down information that utilizes slicing/filtering. 
