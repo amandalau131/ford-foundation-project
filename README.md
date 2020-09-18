@@ -1,5 +1,5 @@
 # SQL Portfolio: Data Analysis on the Ford Foundation
-This is a SQL-based portfolio to showcase skill in SQL and data analysis.
+This is a SQL-based portfolio to demonstrate knowledge of SQL and data analysis.
 
 ## Data Source: Ford Foundation 
 This project analyzes the Ford Foundation's grant dataset which is publicly provided by the institution. The Ford Foundation is one of America's largest private foundations *"with the mission of advancing human welfare"* by investing in people and organzations that work for social justice and are part of social movements. The dataset provides information from 2006 to 2020, but taking into account that leadership changed in 2013, the analysis is performed on data from 2013 to 2020 to reveal historical trends of the foundation's grantmaking at a high level persective, and a deeper look into what the foundation has done so far in 2020.
